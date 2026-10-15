@@ -1,34 +1,52 @@
-## Olá Meu nome é igor Mendes 😉
+# 🌌 Bem-vindo ao Nexus | Igor Mendes
 
-##### Hoje trabalho como Supervisor Logístico em Campinas. 🫡
-##### Estou fazendo uma migração de carreira.💀
+> *"A logística me ensinou a otimizar o mundo físico. O código me deu o poder de construir universos."*
 
-#### Topa realizar uns projetos comigo?? 🫠
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Igor.grilo.mendes74@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-)](11953490416)
+Olá! Eu sou o **Igor Mendes** 📍 *Campinas, SP*. 
+Sou um Ex-Supervisor Logístico em transição para o Multiverso do Desenvolvimento de Software. Minha missão? Conectar pontos, otimizar fluxos e arquitetar soluções que fazem a diferença.
 
-#### Tecnologias que eu uso no meu dia 🔥
+## 🪐 O Nexus e os Universos de Sistemas
+O **Nexus** é o meu hub central. É aqui que os meus "Universos de Sistemas" colidem, evoluem e ganham vida. Cada repositório aqui não é apenas código, é um universo com suas próprias regras, físicas e lógicas, projetados para resolver problemas reais.
 
-<div Style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img align="center" alt="Access" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white"/>
- </div><br/>
- 
- #### Github Trabalhos 👨‍💻
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mldel&layout=cobalt)](https://github.com/mldel/github-readme-stats)
- 
- #### Github Status 🧐
+---
 
-![mldel GitHub stats](https://github-readme-stats.vercel.app/api?username=mldel&show_icons=true&theme=cobalt)
+## 🚀 Projeto em Destaque: Ponto Chef
+🍔 **[Ponto Chef]** *(Link para o repo)*
+O carro-chefe do meu atual universo. Um sistema robusto e intuitivo desenvolvido para revolucionar a gestão e o ponto de venda no mercado gastronômico. 
+* **O que faz:** Controla pedidos, gestão de mesas, comandas e fluxo de cozinha com a precisão de uma linha de montagem logística.
+* **Tecnologias do Universo:** `Flutter` `Dart` `Django` `Python` `MongoDB`
 
-#### From @IgorMendes74 💡
+---
 
+## 🛠️ Arsenal Tecnológico (Stack)
+As ferramentas que uso para moldar esses universos:
+
+**🎨 Frontend & Mobile (A Interface com o Usuário)**
+`HTML5` `CSS3` `JavaScript` `Dart` `Flutter`
+
+**⚙️ Backend & Lógica (O Motor dos Sistemas)**
+`Python` `Django`
+
+**🗄️ Bancos de Dados (A Memória do Nexus)**
+`MongoDB` `MS Access`
+
+---
+
+## 📊 Métricas do Nexus (GitHub Stats)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorMendes74&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Igor's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMendes74&layout=compact&theme=radical" alt="Top Langs" />
+</div>
+
+---
+
+## 📡 Estabelecer Conexão
+Está construindo algo foda ou quer trocar uma ideia sobre logística, sistemas ou o mercado tech? O canal está aberto.
+
+📧 **Email:** [seuemail@gmail.com](mailto:seuemail@gmail.com)  
+📱 **WhatsApp:** [Link para o seu WhatsApp ou número]  
+💼 **LinkedIn:** [Link do seu LinkedIn](#)
+
+---
+*💡 "Do caos logístico à ordem algorítmica. A jornada continua."*
